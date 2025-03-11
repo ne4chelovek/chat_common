@@ -1,7 +1,7 @@
 package pg
 
 import (
-	"chat_common/pkg/db"
+	"github.com/ne4chelovek/chat_common/pkg/db"
 	"context"
 	"fmt"
 

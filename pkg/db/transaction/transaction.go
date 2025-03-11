@@ -1,8 +1,8 @@
 package transaction
 
 import (
-	"chat_common/pkg/db"
-	"chat_common/pkg/db/pg"
+	"github.com/ne4chelovek/chat_common/pkg/db"
+	"github.com/ne4chelovek/chat_common/pkg/db/pg"
 	"context"
 	"fmt"
 

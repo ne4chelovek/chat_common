@@ -1,8 +1,8 @@
 package pg
 
 import (
-	"chat_common/pkg/db"
-	"chat_common/pkg/db/prettier"
+	"github.com/ne4chelovek/chat_common/pkg/db"
+	"github.com/ne4chelovek/chat_common/pkg/db/prettier"
 	"context"
 	"fmt"
 	"log"

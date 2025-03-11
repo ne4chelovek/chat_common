@@ -1,4 +1,4 @@
-module chat_common
+module github.com/ne4chelovek/chat_common
 
 go 1.24.0
 
