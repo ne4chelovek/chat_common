@@ -13,7 +13,7 @@ type Client interface {
 	DB() DB
 	Close() error
 }
-
+//txmanager
 type TxManager interface {
 	ReadCommitted(ctx context.Context, f Handler) error
 }
