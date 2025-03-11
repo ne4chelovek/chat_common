@@ -2,7 +2,15 @@ module github.com/ne4chelovek/chat_common
 
 go 1.24.0
 
-require github.com/jackc/pgx/v5 v5.7.2
+require (
+	github.com/gojuno/minimock/v3 v3.4.5
+	github.com/jackc/pgx/v5 v5.7.2
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+)
 
 require (
 	github.com/georgysavva/scany/v2 v2.1.3
