@@ -1,4 +1,4 @@
-module service_common
+module chat_common
 
 go 1.24.0
 

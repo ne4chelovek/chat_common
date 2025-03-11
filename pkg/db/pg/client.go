@@ -1,7 +1,7 @@
 package pg
 
 import (
-	"service_common/pkg/db"
+	"chat_common/pkg/db"
 	"context"
 	"fmt"
 

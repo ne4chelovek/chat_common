@@ -1,8 +1,8 @@
 package transaction
 
 import (
-	"service_common/pkg/db"
-	"service_common/pkg/db/pg"
+	"chat_common/pkg/db"
+	"chat_common/pkg/db/pg"
 	"context"
 	"fmt"
 
